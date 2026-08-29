@@ -1,0 +1,62 @@
+about:
+  description: Lutris desktop client
+  license: GPL-3.0
+  homepage: https://lutris.net
+  head: 4944e03
+  archived: false
+  latestVersion: v0.5.22
+  collectedAt: 2026-08-29T07:27:24Z
+timeline:
+  created: 2013-10-08
+  lastCommit: 2026-08-22
+  lastRelease: 2026-02-25
+popularity:
+  star: 10201
+  watcher: 131
+  fork: 871
+  release: 59
+  contributor: 386
+  pullRequest: 345
+  issue: 4656
+language:
+  Python: 2781161
+  Shell: 33670
+  Dockerfile: 3882
+  Makefile: 3619
+  Meson: 3032
+  Roff: 1534
+  CSS: 1438
+totalLine: 2828336
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 4
+    openPR: 13
+    closedIssue: 10
+    openIssue: 11
+    commit: 26
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 26
+    openPR: 28
+    closedIssue: 42
+    openIssue: 32
+    commit: 137
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 79
+    openPR: 44
+    closedIssue: 122
+    openIssue: 53
+    commit: 518
+  last360d:
+    since: 2025-09-03
+    release: 2
+    mergedPR: 141
+    openPR: 50
+    closedIssue: 321
+    openIssue: 60
+    commit: 835
