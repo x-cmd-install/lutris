@@ -5,7 +5,7 @@ about:
   head: abcefd0
   archived: false
   latestVersion: "v0.5.22"
-  collectedAt: 2026-09-07T04:34:59Z
+  collectedAt: 2026-09-07T19:47:58Z
 timeline:
   created: 2013-10-08
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 10220
   watcher: 133
-  fork: 875
+  fork: 874
   release: 59
   contributor: 387
-  pullRequest: 1814
+  pullRequest: 1808
   issue: 4662
 language:
   Python: 2784557
@@ -85,7 +85,7 @@ total:
   commit: 11740
 ---
 path: /home/runner/.x-repo/github.com/lutris/lutris
-collectedAt: 2026-09-07T04:35:03Z
+collectedAt: 2026-09-07T19:48:04Z
 loc:
   Python:
     code: 59488
@@ -302,7 +302,7 @@ checks:
       - 'Warn: 0 commits out of 20 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:35:04+00:00
+  collectedAt: 2026-09-07T19:48:05+00:00
   platform:
     darwin/arm64:
       name:  null
