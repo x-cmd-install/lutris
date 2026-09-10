@@ -12,47 +12,13 @@ Lutris desktop client
 x install lutris
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/lutris/lutris>
-- **Homepage**: <https://lutris.net>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-09-06
-- **Assets in release**: 1
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
-
-## Popularity
-
-- **Stars**: 10,227 · **Forks**: 875 · **Open issues**: 4,664 · **Contributors**: 387
-
-## Totals (cumulative)
-
-- **Releases**: 59 · **Merged PRs**: 1460 · **Open PRs**: 55 · **Closed issues**: 4409 · **Open issues**: 255 · **Commits**: 11740
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 4 | 11 | 9 | 12 | 33 |
-| 90d | 2026-06-12 | 0 | 25 | 28 | 38 | 34 | 125 |
-| 360d | 2025-09-15 | 2 | 142 | 52 | 325 | 64 | 840 |
-
-## Code size
-
-Total: **67,827** lines of code across **387** files in the top 5 languages.
+Total: **67,854** lines of code across **387** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 59,488 | 2,288 | 11,527 | 338 |
+| Python | 59,515 | 2,294 | 11,529 | 338 |
 | Json | 2,942 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,051 | 0 | 337 | 7 |
@@ -68,6 +34,61 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/lutris/lutris>
+- **Homepage**: <https://lutris.net>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `v0.5.22` (2026-02-25)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 10,228 · **Forks**: 875 · **Open issues**: 4,666 · **Contributors**: 387
+
+## Totals (cumulative)
+
+- **Releases**: 59 · **Merged PRs**: 1460 · **Open PRs**: 55 · **Closed issues**: 4410 · **Open issues**: 256 · **Commits**: 11741
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 4 | 11 | 10 | 13 | 35 |
+| last60d | 2026-07-12 | 0 | 11 | 16 | 25 | 24 | 49 |
+| 90d | 2026-06-12 | 0 | 25 | 28 | 39 | 35 | 127 |
+| last180d | 2026-03-14 | 0 | 72 | 45 | 112 | 57 | 400 |
+| 360d | 2025-09-15 | 2 | 142 | 52 | 326 | 65 | 842 |
+| last720d | 2024-09-20 | 3 | 250 | 55 | 719 | 100 | 1394 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
+
+## Distribution status
+
+Reported by **104** distros on [repology.org](https://repology.org/project/lutris). **44** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.5.22` | ✅ latest |
+| Debian 14 | `0.5.22` | ✅ latest |
+| Debian 13 | `0.5.19` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.5.22` | ✅ latest |
+| Ubuntu 24.04 LTS | `0.5.14` | ⚠️ outdated |
+| Arch | `0.5.22` | ✅ latest |
+| Fedora rawhide | `0.5.22` | ✅ latest |
+| Nix unstable | `0.5.22` | ✅ latest |
+| Void | `0.5.22` | ✅ latest |
+| Alpine edge | `0.5.22` | ✅ latest |
+| openSUSE Tumbleweed | `0.5.22` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lutris` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:47:50Z._
