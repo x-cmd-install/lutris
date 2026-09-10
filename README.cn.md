@@ -4,7 +4,7 @@
 
 Lutris desktop client
 
-![lutris](https://repo.x-cmd.io/lutris.svg)
+![lutris](https://repo.x-cmd.io/lutris.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,16 @@ x install lutris
 - **最新版本**: `v0.5.22` (2026-02-25)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-02-25T01:10:06Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 10,226 · **Fork**: 875 · **开放 issue**: 4,664 · **贡献者**: 387
+- **Star**: 10,227 · **Fork**: 875 · **开放 issue**: 4,664 · **贡献者**: 387
 
 ## 累计统计
 
@@ -72,4 +77,4 @@ lutris 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:30:40Z._
