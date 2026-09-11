@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,228 · **Forks**: 875 · **Open issues**: 4,666 · **Contributors**: 387
+- **Stars**: 10,229 · **Forks**: 875 · **Open issues**: 4,666 · **Contributors**: 387
 
 ## Totals (cumulative)
 
@@ -98,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:33:00Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:37:49Z._
