@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2066988,
       "digest": "sha256:88a350357e0438b423cdf93108f27942de094dc19f973df73839f3b0b0bafaa0",
-      "download_count": 109413,
+      "download_count": 109508,
       "created_at": "2026-02-25T01:15:48Z",
       "updated_at": "2026-02-25T01:15:50Z",
       "browser_download_url": "https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb"
