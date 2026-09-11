@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2066988,
       "digest": "sha256:88a350357e0438b423cdf93108f27942de094dc19f973df73839f3b0b0bafaa0",
-      "download_count": 109508,
+      "download_count": 109837,
       "created_at": "2026-02-25T01:15:48Z",
       "updated_at": "2026-02-25T01:15:50Z",
       "browser_download_url": "https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb"
@@ -78,13 +78,13 @@
   "body": "- Fix type annotations requiring quoting for Python < 3.14 compatibility\r\n- Add mypy typing annotations on util/strings.py\r\n- Update release targets in PPA CI",
   "reactions": {
     "url": "https://api.github.com/repos/lutris/lutris/releases/290121294/reactions",
-    "total_count": 81,
-    "+1": 44,
+    "total_count": 84,
+    "+1": 45,
     "-1": 0,
     "laugh": 0,
-    "hooray": 8,
+    "hooray": 9,
     "confused": 0,
-    "heart": 29,
+    "heart": 30,
     "rocket": 0,
     "eyes": 0
   }

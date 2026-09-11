@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.22"
   latestRelease: "v0.5.22"
   latestPrerelease: "v0.5.13-beta2"
-  collectedAt: 2026-09-11T04:32:47Z
+  collectedAt: 2026-09-11T20:37:37Z
 timeline:
   created: 2013-10-08
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-25
   lastPrerelease: 2023-04-20
 popularity:
-  star: 10228
+  star: 10229
   watcher: 133
   fork: 875
   release: 59
@@ -89,7 +89,7 @@ total:
   commit: 11741
 ---
 path: /home/runner/.x-repo/github.com/lutris/lutris
-collectedAt: 2026-09-11T04:32:53Z
+collectedAt: 2026-09-11T20:37:43Z
 loc:
   Python:
     code: 59515
