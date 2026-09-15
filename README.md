@@ -30,7 +30,7 @@ Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,238 · **Forks**: 876 · **Open issues**: 4,669 · **Contributors**: 387
+- **Stars**: 10,244 · **Forks**: 877 · **Open issues**: 4,671 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1460 · **Open PRs**: 58 · **Closed issues**: 4411 · **Open issues**: 258 · **Commits**: 11742
+- **Releases**: 59 · **Merged PRs**: 1460 · **Open PRs**: 59 · **Closed issues**: 4413 · **Open issues**: 258 · **Commits**: 11742
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 13 | 10 | 15 | 22 |
-| last60d | 2026-07-16 | 0 | 9 | 19 | 23 | 26 | 49 |
-| 90d | 2026-06-16 | 0 | 22 | 30 | 38 | 37 | 118 |
-| last180d | 2026-03-18 | 0 | 68 | 46 | 110 | 58 | 344 |
-| 360d | 2025-09-19 | 2 | 142 | 55 | 327 | 67 | 841 |
-| last720d | 2024-09-24 | 3 | 248 | 58 | 715 | 102 | 1395 |
+| 30d | 2026-08-16 | 0 | 1 | 14 | 11 | 15 | 22 |
+| last60d | 2026-07-17 | 0 | 9 | 20 | 24 | 24 | 49 |
+| 90d | 2026-06-17 | 0 | 22 | 31 | 39 | 37 | 118 |
+| last180d | 2026-03-19 | 0 | 68 | 47 | 112 | 58 | 344 |
+| 360d | 2025-09-20 | 2 | 142 | 56 | 329 | 67 | 841 |
+| last720d | 2024-09-25 | 3 | 248 | 59 | 717 | 102 | 1362 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:00:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:55:53Z._
