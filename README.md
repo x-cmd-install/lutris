@@ -4,7 +4,7 @@
 
 Lutris desktop client
 
-[![x-cmd/install — lutris Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lutris.svg)](https://x-cmd.com/install/lutris)
+[![x-cmd/install — lutris Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lutris.svg)](https://x-cmd.com/install/lutris)
 
 ## Install
 
@@ -26,11 +26,11 @@ Total: **68,342** lines of code across **393** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 4/26 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,253 · **Forks**: 879 · **Open issues**: 4,677 · **Contributors**: 388
+- **Stars**: 10,258 · **Forks**: 880 · **Open issues**: 4,678 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1464 · **Open PRs**: 59 · **Closed issues**: 4419 · **Open issues**: 258 · **Commits**: 11748
+- **Releases**: 59 · **Merged PRs**: 1464 · **Open PRs**: 60 · **Closed issues**: 4419 · **Open issues**: 259 · **Commits**: 11748
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 8 | 12 | 14 | 26 |
-| last60d | 2026-07-24 | 0 | 12 | 20 | 27 | 21 | 54 |
-| 90d | 2026-06-24 | 0 | 22 | 29 | 41 | 35 | 110 |
-| last180d | 2026-03-26 | 0 | 59 | 43 | 106 | 56 | 266 |
-| 360d | 2025-09-27 | 2 | 146 | 56 | 335 | 67 | 847 |
-| last720d | 2024-10-02 | 3 | 251 | 59 | 714 | 101 | 1364 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 12 | 15 | 26 |
+| last60d | 2026-07-25 | 0 | 11 | 21 | 27 | 21 | 54 |
+| 90d | 2026-06-25 | 0 | 22 | 29 | 40 | 36 | 110 |
+| last180d | 2026-03-27 | 0 | 57 | 43 | 103 | 57 | 266 |
+| 360d | 2025-09-28 | 2 | 146 | 57 | 335 | 68 | 847 |
+| last720d | 2024-10-03 | 3 | 250 | 60 | 714 | 102 | 1364 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:07:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:48:01Z._
