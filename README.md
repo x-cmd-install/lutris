@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,264 · **Forks**: 882 · **Open issues**: 4,679 · **Contributors**: 390
+- **Stars**: 10,269 · **Forks**: 884 · **Open issues**: 4,679 · **Contributors**: 390
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1469 · **Open PRs**: 56 · **Closed issues**: 4421 · **Open issues**: 258 · **Commits**: 11756
+- **Releases**: 59 · **Merged PRs**: 1470 · **Open PRs**: 56 · **Closed issues**: 4422 · **Open issues**: 257 · **Commits**: 11758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 6 | 8 | 11 | 15 | 33 |
-| last60d | 2026-07-28 | 0 | 13 | 19 | 27 | 21 | 61 |
-| 90d | 2026-06-28 | 0 | 23 | 25 | 40 | 34 | 119 |
-| last180d | 2026-03-30 | 0 | 57 | 38 | 100 | 55 | 276 |
-| 360d | 2025-10-01 | 2 | 151 | 53 | 336 | 68 | 857 |
-| last720d | 2024-10-06 | 3 | 253 | 56 | 710 | 102 | 1358 |
+| 30d | 2026-08-28 | 0 | 7 | 8 | 11 | 12 | 29 |
+| last60d | 2026-07-29 | 0 | 14 | 19 | 27 | 19 | 61 |
+| 90d | 2026-06-29 | 0 | 23 | 23 | 41 | 33 | 83 |
+| last180d | 2026-03-31 | 0 | 57 | 38 | 100 | 54 | 243 |
+| 360d | 2025-10-02 | 2 | 152 | 53 | 337 | 67 | 857 |
+| last720d | 2024-10-07 | 3 | 253 | 56 | 710 | 101 | 1358 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:53:15Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:21:12Z._
