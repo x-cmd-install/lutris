@@ -14,11 +14,11 @@ x install lutris
 
 ## Code insight
 
-Total: **68,798** lines of code across **395** files in the top 5 languages.
+Total: **68,866** lines of code across **395** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 60,460 | 2,331 | 11,720 | 346 |
+| Python | 60,528 | 2,339 | 11,732 | 346 |
 | Json | 2,942 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,051 | 0 | 337 | 7 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,275 · **Forks**: 882 · **Open issues**: 4,679 · **Contributors**: 391
+- **Stars**: 10,277 · **Forks**: 883 · **Open issues**: 4,682 · **Contributors**: 391
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1474 · **Open PRs**: 52 · **Closed issues**: 4423 · **Open issues**: 256 · **Commits**: 11775
+- **Releases**: 59 · **Merged PRs**: 1474 · **Open PRs**: 54 · **Closed issues**: 4425 · **Open issues**: 257 · **Commits**: 11777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 8 | 7 | 11 | 11 | 39 |
-| last60d | 2026-08-01 | 0 | 15 | 16 | 25 | 17 | 72 |
-| 90d | 2026-07-02 | 0 | 23 | 18 | 41 | 30 | 94 |
-| last180d | 2026-04-03 | 0 | 53 | 34 | 97 | 52 | 255 |
-| 360d | 2025-10-05 | 2 | 156 | 49 | 338 | 66 | 870 |
-| last720d | 2024-10-10 | 3 | 255 | 52 | 709 | 100 | 1362 |
+| 30d | 2026-09-01 | 0 | 8 | 10 | 12 | 13 | 45 |
+| last60d | 2026-08-02 | 0 | 15 | 19 | 26 | 19 | 78 |
+| 90d | 2026-07-03 | 0 | 22 | 20 | 43 | 30 | 102 |
+| last180d | 2026-04-04 | 0 | 52 | 36 | 99 | 52 | 263 |
+| 360d | 2025-10-06 | 2 | 156 | 51 | 340 | 67 | 878 |
+| last720d | 2024-10-11 | 3 | 255 | 54 | 710 | 101 | 1364 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:28:47Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:53:25Z._
