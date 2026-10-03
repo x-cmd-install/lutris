@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,279 · **Forks**: 883 · **Open issues**: 4,683 · **Contributors**: 391
+- **Stars**: 10,281 · **Forks**: 885 · **Open issues**: 4,685 · **Contributors**: 391
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1474 · **Open PRs**: 55 · **Closed issues**: 4425 · **Open issues**: 258 · **Commits**: 11777
+- **Releases**: 59 · **Merged PRs**: 1474 · **Open PRs**: 56 · **Closed issues**: 4426 · **Open issues**: 259 · **Commits**: 11777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 8 | 11 | 12 | 12 | 45 |
-| last60d | 2026-08-03 | 0 | 15 | 20 | 26 | 20 | 78 |
-| 90d | 2026-07-04 | 0 | 21 | 21 | 43 | 31 | 102 |
-| last180d | 2026-04-05 | 0 | 51 | 37 | 99 | 53 | 263 |
-| 360d | 2025-10-07 | 2 | 156 | 52 | 340 | 68 | 878 |
-| last720d | 2024-10-12 | 3 | 255 | 55 | 710 | 102 | 1364 |
+| 30d | 2026-09-03 | 0 | 8 | 12 | 13 | 13 | 45 |
+| last60d | 2026-08-04 | 0 | 15 | 21 | 26 | 21 | 78 |
+| 90d | 2026-07-05 | 0 | 21 | 22 | 41 | 31 | 102 |
+| last180d | 2026-04-06 | 0 | 51 | 38 | 98 | 54 | 263 |
+| 360d | 2025-10-08 | 2 | 156 | 53 | 341 | 69 | 878 |
+| last720d | 2024-10-13 | 3 | 255 | 56 | 708 | 103 | 1364 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:32:08Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:15:15Z._
