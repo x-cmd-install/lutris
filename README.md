@@ -22,7 +22,7 @@ Total: **69,843** lines of code across **407** files in the top 5 languages.
 | Json | 2,940 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,053 | 0 | 338 | 7 |
-| Sh | 533 | 157 | 79 | 7 |
+| Sh | 533 | 160 | 79 | 7 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,315 · **Forks**: 888 · **Open issues**: 4,698 · **Contributors**: 395
+- **Stars**: 10,316 · **Forks**: 888 · **Open issues**: 4,699 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1487 · **Open PRs**: 57 · **Closed issues**: 4443 · **Open issues**: 255 · **Commits**: 11825
+- **Releases**: 59 · **Merged PRs**: 1487 · **Open PRs**: 59 · **Closed issues**: 4444 · **Open issues**: 255 · **Commits**: 11826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 19 | 15 | 12 | 16 | 101 |
-| last60d | 2026-08-16 | 0 | 22 | 24 | 29 | 25 | 134 |
-| 90d | 2026-07-17 | 0 | 32 | 26 | 47 | 29 | 162 |
-| last180d | 2026-04-18 | 0 | 60 | 40 | 104 | 53 | 320 |
-| 360d | 2025-10-20 | 2 | 169 | 55 | 352 | 71 | 950 |
-| last720d | 2024-10-25 | 3 | 262 | 57 | 705 | 100 | 1358 |
+| 30d | 2026-09-16 | 0 | 19 | 17 | 11 | 16 | 103 |
+| last60d | 2026-08-17 | 0 | 22 | 26 | 30 | 25 | 136 |
+| 90d | 2026-07-18 | 0 | 32 | 28 | 48 | 29 | 164 |
+| last180d | 2026-04-19 | 0 | 60 | 42 | 105 | 53 | 322 |
+| 360d | 2025-10-21 | 2 | 169 | 57 | 353 | 71 | 952 |
+| last720d | 2024-10-26 | 3 | 262 | 59 | 704 | 100 | 1359 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:32:23Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:38:38Z._
