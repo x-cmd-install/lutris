@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-17
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,317 · **Forks**: 888 · **Open issues**: 4,699 · **Contributors**: 395
+- **Stars**: 10,320 · **Forks**: 889 · **Open issues**: 4,700 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1487 · **Open PRs**: 59 · **Closed issues**: 4444 · **Open issues**: 255 · **Commits**: 11826
+- **Releases**: 59 · **Merged PRs**: 1487 · **Open PRs**: 63 · **Closed issues**: 4444 · **Open issues**: 256 · **Commits**: 11827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 19 | 17 | 11 | 16 | 103 |
-| last60d | 2026-08-18 | 0 | 22 | 26 | 30 | 25 | 136 |
-| 90d | 2026-07-19 | 0 | 32 | 27 | 48 | 29 | 164 |
-| last180d | 2026-04-20 | 0 | 59 | 42 | 105 | 52 | 322 |
-| 360d | 2025-10-22 | 2 | 169 | 57 | 353 | 71 | 952 |
-| last720d | 2024-10-27 | 3 | 260 | 59 | 704 | 100 | 1352 |
+| 30d | 2026-09-18 | 0 | 19 | 21 | 11 | 17 | 86 |
+| last60d | 2026-08-19 | 0 | 22 | 30 | 30 | 26 | 128 |
+| 90d | 2026-07-20 | 0 | 32 | 31 | 48 | 30 | 160 |
+| last180d | 2026-04-21 | 0 | 59 | 45 | 102 | 52 | 316 |
+| 360d | 2025-10-23 | 2 | 169 | 61 | 353 | 72 | 954 |
+| last720d | 2024-10-28 | 3 | 260 | 63 | 702 | 101 | 1343 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:19:02Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:22:50Z._
