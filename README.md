@@ -14,11 +14,11 @@ x install lutris
 
 ## Code insight
 
-Total: **70,349** lines of code across **414** files in the top 5 languages.
+Total: **70,522** lines of code across **415** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 61,948 | 2,402 | 12,110 | 365 |
+| Python | 62,121 | 2,407 | 12,163 | 366 |
 | Json | 2,940 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,053 | 0 | 338 | 7 |
@@ -48,28 +48,46 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,326 · **Forks**: 889 · **Open issues**: 4,700 · **Contributors**: 395
+- **Stars**: 10,320 · **Forks**: 889 · **Open issues**: 4,700 · **Contributors**: 396
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1490 · **Open PRs**: 62 · **Closed issues**: 4446 · **Open issues**: 254 · **Commits**: 11839
+- **Releases**: 59 · **Merged PRs**: 1493 · **Open PRs**: 59 · **Closed issues**: 4449 · **Open issues**: 251 · **Commits**: 11856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 17 | 20 | 8 | 15 | 98 |
-| last60d | 2026-08-23 | 0 | 24 | 25 | 26 | 24 | 140 |
-| 90d | 2026-07-24 | 0 | 34 | 30 | 44 | 28 | 172 |
-| last180d | 2026-04-25 | 0 | 62 | 44 | 101 | 52 | 328 |
-| 360d | 2025-10-27 | 2 | 172 | 60 | 354 | 71 | 966 |
-| last720d | 2024-11-01 | 3 | 262 | 62 | 694 | 100 | 1344 |
+| 30d | 2026-09-23 | 0 | 17 | 18 | 8 | 14 | 110 |
+| last60d | 2026-08-24 | 0 | 26 | 23 | 26 | 24 | 153 |
+| 90d | 2026-07-25 | 0 | 35 | 28 | 44 | 27 | 185 |
+| last180d | 2026-04-26 | 0 | 65 | 41 | 101 | 50 | 345 |
+| 360d | 2025-10-28 | 2 | 175 | 57 | 355 | 70 | 983 |
+| last720d | 2024-11-02 | 3 | 265 | 59 | 697 | 97 | 1342 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
+
+## Distribution status
+
+Reported by **103** distros on [repology.org](https://repology.org/project/lutris). **45** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.5.22` | ✅ latest |
+| Debian 14 | `0.5.22` | ✅ latest |
+| Debian 13 | `0.5.19` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.5.22` | ✅ latest |
+| Ubuntu 24.04 LTS | `0.5.14` | ⚠️ outdated |
+| Arch | `0.5.22` | ✅ latest |
+| Fedora rawhide | `0.5.22` | ✅ latest |
+| Nix unstable | `0.5.22` | ✅ latest |
+| Void | `0.5.22` | ✅ latest |
+| Alpine edge | `0.5.22` | ✅ latest |
+| openSUSE Tumbleweed | `0.5.22` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:41Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:45:50Z._
