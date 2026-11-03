@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,348 · **Forks**: 891 · **Open issues**: 4,704 · **Contributors**: 396
+- **Stars**: 10,352 · **Forks**: 891 · **Open issues**: 4,704 · **Contributors**: 396
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 19 | 14 | 7 | 17 | 81 |
-| last60d | 2026-09-03 | 0 | 28 | 21 | 23 | 27 | 172 |
-| 90d | 2026-08-04 | 0 | 36 | 26 | 39 | 32 | 212 |
-| last180d | 2026-05-06 | 0 | 66 | 36 | 97 | 54 | 372 |
-| 360d | 2025-11-07 | 2 | 173 | 55 | 352 | 76 | 998 |
-| last720d | 2024-11-12 | 3 | 259 | 57 | 685 | 102 | 1336 |
+| 30d | 2026-10-04 | 0 | 19 | 14 | 4 | 15 | 81 |
+| last60d | 2026-09-04 | 0 | 28 | 21 | 22 | 27 | 172 |
+| 90d | 2026-08-05 | 0 | 35 | 26 | 38 | 32 | 212 |
+| last180d | 2026-05-07 | 0 | 66 | 36 | 95 | 54 | 372 |
+| 360d | 2025-11-08 | 2 | 172 | 55 | 352 | 76 | 998 |
+| last720d | 2024-11-13 | 3 | 258 | 57 | 684 | 101 | 1330 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/lutris). **47** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **104** distros on [repology.org](https://repology.org/project/lutris). **45** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:00:20Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:42:18Z._
