@@ -48,46 +48,28 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,358 · **Forks**: 890 · **Open issues**: 4,705 · **Contributors**: 396
+- **Stars**: 10,358 · **Forks**: 891 · **Open issues**: 4,706 · **Contributors**: 396
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1493 · **Open PRs**: 57 · **Closed issues**: 4447 · **Open issues**: 258 · **Commits**: 11878
+- **Releases**: 59 · **Merged PRs**: 1493 · **Open PRs**: 58 · **Closed issues**: 4448 · **Open issues**: 258 · **Commits**: 11878
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 19 | 14 | 4 | 16 | 81 |
-| last60d | 2026-09-05 | 0 | 28 | 20 | 20 | 28 | 172 |
-| 90d | 2026-08-06 | 0 | 35 | 26 | 38 | 33 | 212 |
-| last180d | 2026-05-08 | 0 | 65 | 36 | 93 | 55 | 372 |
-| 360d | 2025-11-09 | 2 | 172 | 55 | 350 | 77 | 998 |
-| last720d | 2024-11-14 | 3 | 255 | 57 | 684 | 101 | 1326 |
+| 30d | 2026-10-06 | 0 | 19 | 15 | 5 | 16 | 81 |
+| last60d | 2026-09-06 | 0 | 28 | 20 | 21 | 28 | 172 |
+| 90d | 2026-08-07 | 0 | 35 | 27 | 39 | 33 | 212 |
+| last180d | 2026-05-09 | 0 | 65 | 37 | 93 | 55 | 372 |
+| 360d | 2025-11-10 | 2 | 172 | 56 | 349 | 77 | 998 |
+| last720d | 2024-11-15 | 3 | 255 | 58 | 684 | 101 | 1325 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
-
-## Distribution status
-
-Reported by **104** distros on [repology.org](https://repology.org/project/lutris). **45** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.5.22` | ✅ latest |
-| Debian 14 | `0.5.22` | ✅ latest |
-| Debian 13 | `0.5.19` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.5.22` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.5.14` | ⚠️ outdated |
-| Arch | `0.5.22` | ✅ latest |
-| Fedora rawhide | `0.5.22` | ✅ latest |
-| Nix unstable | `0.5.22` | ✅ latest |
-| Void | `0.5.22` | ✅ latest |
-| Alpine edge | `0.5.22` | ✅ latest |
-| openSUSE Tumbleweed | `0.5.22` | ✅ latest |
 
 ## Improve this data
 
@@ -98,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:09:28Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:37:26Z._
