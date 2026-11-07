@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,362 · **Forks**: 891 · **Open issues**: 4,706 · **Contributors**: 396
+- **Stars**: 10,364 · **Forks**: 891 · **Open issues**: 4,706 · **Contributors**: 396
 
 ## Totals (cumulative)
 
@@ -58,18 +58,36 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 18 | 15 | 5 | 16 | 81 |
-| last60d | 2026-09-07 | 0 | 28 | 20 | 21 | 28 | 172 |
-| 90d | 2026-08-08 | 0 | 35 | 27 | 39 | 33 | 212 |
-| last180d | 2026-05-10 | 0 | 65 | 37 | 92 | 54 | 372 |
-| 360d | 2025-11-11 | 2 | 172 | 56 | 348 | 77 | 998 |
-| last720d | 2024-11-16 | 3 | 255 | 58 | 684 | 101 | 1325 |
+| 30d | 2026-10-08 | 0 | 18 | 15 | 5 | 16 | 81 |
+| last60d | 2026-09-08 | 0 | 28 | 20 | 20 | 28 | 172 |
+| 90d | 2026-08-09 | 0 | 34 | 27 | 37 | 33 | 212 |
+| last180d | 2026-05-11 | 0 | 65 | 37 | 91 | 54 | 372 |
+| 360d | 2025-11-12 | 2 | 172 | 56 | 347 | 77 | 998 |
+| last720d | 2024-11-17 | 3 | 255 | 58 | 682 | 101 | 1324 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
+
+## Distribution status
+
+Reported by **105** distros on [repology.org](https://repology.org/project/lutris). **48** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.5.22` | ✅ latest |
+| Debian 14 | `0.5.22` | ✅ latest |
+| Debian 13 | `0.5.19` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.5.22` | ✅ latest |
+| Ubuntu 24.04 LTS | `0.5.14` | ⚠️ outdated |
+| Arch | `0.5.22` | ✅ latest |
+| Fedora rawhide | `0.5.22` | ✅ latest |
+| Nix unstable | `0.5.22` | ✅ latest |
+| Void | `0.5.22` | ✅ latest |
+| Alpine edge | `0.5.22` | ✅ latest |
+| openSUSE Tumbleweed | `0.5.22` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:33:13Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:36Z._
