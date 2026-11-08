@@ -14,11 +14,11 @@ x install lutris
 
 ## Code insight
 
-Total: **71,072** lines of code across **417** files in the top 5 languages.
+Total: **71,360** lines of code across **420** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 62,599 | 2,418 | 12,278 | 368 |
+| Python | 62,887 | 2,434 | 12,334 | 371 |
 | Json | 2,940 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,062 | 0 | 340 | 7 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-07
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,364 · **Forks**: 891 · **Open issues**: 4,706 · **Contributors**: 396
+- **Stars**: 10,366 · **Forks**: 892 · **Open issues**: 4,706 · **Contributors**: 397
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1493 · **Open PRs**: 58 · **Closed issues**: 4448 · **Open issues**: 258 · **Commits**: 11878
+- **Releases**: 59 · **Merged PRs**: 1495 · **Open PRs**: 59 · **Closed issues**: 4450 · **Open issues**: 256 · **Commits**: 11888
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 18 | 15 | 5 | 16 | 81 |
-| last60d | 2026-09-08 | 0 | 28 | 20 | 20 | 28 | 172 |
-| 90d | 2026-08-09 | 0 | 34 | 27 | 37 | 33 | 212 |
-| last180d | 2026-05-11 | 0 | 65 | 37 | 91 | 54 | 372 |
-| 360d | 2025-11-12 | 2 | 172 | 56 | 347 | 77 | 998 |
-| last720d | 2024-11-17 | 3 | 255 | 58 | 682 | 101 | 1324 |
+| 30d | 2026-10-09 | 0 | 13 | 15 | 7 | 11 | 63 |
+| last60d | 2026-09-09 | 0 | 30 | 21 | 22 | 25 | 178 |
+| 90d | 2026-08-10 | 0 | 36 | 28 | 38 | 31 | 212 |
+| last180d | 2026-05-12 | 0 | 67 | 38 | 93 | 51 | 373 |
+| 360d | 2025-11-13 | 2 | 174 | 57 | 349 | 75 | 1007 |
+| last720d | 2024-11-18 | 3 | 257 | 59 | 682 | 99 | 1334 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:53:36Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:58:51Z._
