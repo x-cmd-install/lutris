@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: lutris
+  visiblename: lutris
+  version: 0.5.19
+  origversion: null
+  status: outdated
+  summary: Open Source gaming platform for GNU/Linux
+  maintainers:
+    - madouura@gmail.com
+    - rapiteanu.catalin@gmail.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: aerynos
   srcname: lutris
   visiblename: lutris
@@ -33,6 +45,18 @@
     - saijin-naib_package-maintenance@outlook.com
   licenses:
     - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: lutris-free
+  visiblename: lutris
+  version: 0.5.19
+  origversion: null
+  status: outdated
+  summary: Open Source gaming platform for GNU/Linux
+  maintainers:
+    - madouura@gmail.com
+    - rapiteanu.catalin@gmail.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: alpine_edge
   subrepo: testing
   srcname: lutris
@@ -331,6 +355,20 @@
   categories:
     - Unspecified
 - repo: fedora_40
+  subrepo: updates
+  srcname: lutris
+  binnames:
+    - lutris
+  visiblename: lutris
+  version: 0.5.19
+  origversion: 0.5.19-1.fc40
+  status: outdated
+  summary: Install and play any video game easily
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
   subrepo: release
   srcname: lutris
   binnames:
@@ -344,15 +382,15 @@
     - GPLv3
   categories:
     - Unspecified
-- repo: fedora_40
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: lutris
   binnames:
     - lutris
   visiblename: lutris
-  version: 0.5.19
-  origversion: 0.5.19-1.fc40
-  status: outdated
+  version: 0.5.17
+  origversion: 0.5.17-8.fc41
+  status: legacy
   summary: Install and play any video game easily
   licenses:
     - GPL-3.0-only
@@ -367,20 +405,6 @@
   version: 0.5.19
   origversion: 0.5.19-1.fc41
   status: outdated
-  summary: Install and play any video game easily
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: fedora_41
-  subrepo: release
-  srcname: lutris
-  binnames:
-    - lutris
-  visiblename: lutris
-  version: 0.5.17
-  origversion: 0.5.17-8.fc41
-  status: legacy
   summary: Install and play any video game easily
   licenses:
     - GPL-3.0-only
@@ -637,17 +661,6 @@
     - GPLv3+
   categories:
     - Games/Other
-- repo: nix_stable_26_05
-  srcname: lutris
-  visiblename: lutris
-  version: 0.5.22
-  origversion: null
-  status: newest
-  summary: Open Source gaming platform for GNU/Linux
-  maintainers:
-    - rapiteanu.catalin@gmail.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: mageia_9
   subrepo: core/updates
   srcname: lutris
@@ -796,30 +809,6 @@
   licenses:
     - GPL-3.0-or-later
 - repo: nix_stable_25_05
-  srcname: lutris
-  visiblename: lutris
-  version: 0.5.19
-  origversion: null
-  status: outdated
-  summary: Open Source gaming platform for GNU/Linux
-  maintainers:
-    - madouura@gmail.com
-    - rapiteanu.catalin@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: lutris-free
-  visiblename: lutris
-  version: 0.5.19
-  origversion: null
-  status: outdated
-  summary: Open Source gaming platform for GNU/Linux
-  maintainers:
-    - madouura@gmail.com
-    - rapiteanu.catalin@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_05
   srcname: lutris-unwrapped
   visiblename: lutris-unwrapped
   version: 0.5.19
@@ -859,6 +848,17 @@
   version: 0.5.19
   origversion: null
   status: outdated
+  summary: Open Source gaming platform for GNU/Linux
+  maintainers:
+    - rapiteanu.catalin@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: lutris
+  visiblename: lutris
+  version: 0.5.22
+  origversion: null
+  status: newest
   summary: Open Source gaming platform for GNU/Linux
   maintainers:
     - rapiteanu.catalin@gmail.com
@@ -1000,11 +1000,11 @@
   categories:
     - Games/Other
 - repo: opensuse_leap_15_5
-  subrepo: main/oss
+  subrepo: updates/backports
   srcname: lutris
   visiblename: lutris
   version: 0.5.9.1
-  origversion: 0.5.9.1-bp155.2.12
+  origversion: 0.5.9.1-bp155.3.3.1
   status: outdated
   summary: Manager for game installation and execution
   licenses:
@@ -1012,11 +1012,11 @@
   categories:
     - Unspecified
 - repo: opensuse_leap_15_5
-  subrepo: updates/backports
+  subrepo: main/oss
   srcname: lutris
   visiblename: lutris
   version: 0.5.9.1
-  origversion: 0.5.9.1-bp155.3.3.1
+  origversion: 0.5.9.1-bp155.2.12
   status: outdated
   summary: Manager for game installation and execution
   licenses:
@@ -1068,8 +1068,8 @@
   srcname: lutris-git
   binname: lutris-git
   visiblename: lutris-git
-  version: 516ed5ff
-  origversion: 516ed5ff-1
+  version: f9ef1bc4
+  origversion: f9ef1bc4-1
   status: rolling
   summary: Open Gaming Platform
   maintainers:
@@ -1089,7 +1089,7 @@
   categories:
     - contrib/misc
 - repo: parrot
-  subrepo: parrot/contrib
+  subrepo: parrot-updates/contrib
   srcname: lutris
   binnames:
     - lutris
@@ -1104,7 +1104,7 @@
   categories:
     - contrib/misc
 - repo: parrot
-  subrepo: parrot-updates/contrib
+  subrepo: parrot/contrib
   srcname: lutris
   binnames:
     - lutris
