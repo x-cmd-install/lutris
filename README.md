@@ -33,27 +33,27 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,389 · **Forks**: 891 · **Open issues**: 4,709 · **Contributors**: 398
+- **Stars**: 10,391 · **Forks**: 892 · **Open issues**: 4,711 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1497 · **Open PRs**: 62 · **Closed issues**: 4452 · **Open issues**: 257 · **Commits**: 11909
+- **Releases**: 59 · **Merged PRs**: 1498 · **Open PRs**: 63 · **Closed issues**: 4452 · **Open issues**: 259 · **Commits**: 11911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 13 | 12 | 4 | 10 | 71 |
-| last60d | 2026-09-16 | 0 | 31 | 21 | 16 | 25 | 189 |
-| 90d | 2026-08-17 | 0 | 34 | 30 | 35 | 34 | 224 |
-| last180d | 2026-05-19 | 0 | 66 | 41 | 88 | 52 | 381 |
-| 360d | 2025-11-20 | 2 | 173 | 60 | 335 | 78 | 1021 |
-| last720d | 2024-11-25 | 3 | 254 | 62 | 670 | 101 | 1318 |
+| 30d | 2026-10-17 | 0 | 14 | 9 | 4 | 11 | 73 |
+| last60d | 2026-09-17 | 0 | 32 | 22 | 16 | 27 | 191 |
+| 90d | 2026-08-18 | 0 | 35 | 31 | 35 | 36 | 226 |
+| last180d | 2026-05-20 | 0 | 67 | 42 | 88 | 53 | 383 |
+| 360d | 2025-11-21 | 2 | 174 | 61 | 334 | 80 | 1023 |
+| last720d | 2024-11-26 | 3 | 255 | 63 | 668 | 103 | 1320 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:24:19Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:26:18Z._
