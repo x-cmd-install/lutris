@@ -38,7 +38,7 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,391 · **Forks**: 892 · **Open issues**: 4,711 · **Contributors**: 399
+- **Stars**: 10,399 · **Forks**: 892 · **Open issues**: 4,711 · **Contributors**: 399
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 14 | 9 | 4 | 11 | 73 |
-| last60d | 2026-09-17 | 0 | 32 | 22 | 16 | 27 | 191 |
-| 90d | 2026-08-18 | 0 | 35 | 31 | 35 | 36 | 226 |
-| last180d | 2026-05-20 | 0 | 67 | 42 | 88 | 53 | 383 |
-| 360d | 2025-11-21 | 2 | 174 | 61 | 334 | 80 | 1023 |
-| last720d | 2024-11-26 | 3 | 255 | 63 | 668 | 103 | 1320 |
+| 30d | 2026-10-18 | 0 | 14 | 9 | 4 | 11 | 73 |
+| last60d | 2026-09-18 | 0 | 32 | 22 | 16 | 27 | 191 |
+| 90d | 2026-08-19 | 0 | 35 | 31 | 35 | 36 | 226 |
+| last180d | 2026-05-21 | 0 | 67 | 42 | 88 | 53 | 383 |
+| 360d | 2025-11-22 | 2 | 174 | 61 | 330 | 80 | 1023 |
+| last720d | 2024-11-27 | 3 | 254 | 63 | 668 | 103 | 1320 |
 
 ## Release assets
 
@@ -63,7 +63,7 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/lutris). **48** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/lutris). **49** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,4 +88,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:26:18Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:42:52Z._
