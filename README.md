@@ -14,11 +14,11 @@ x install lutris
 
 ## Code insight
 
-Total: **72,346** lines of code across **423** files in the top 5 languages.
+Total: **72,544** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 63,011 | 2,439 | 12,360 | 372 |
+| Python | 63,209 | 2,457 | 12,404 | 373 |
 | Json | 2,940 | 0 | 6 | 25 |
 | Svg | 1,967 | 0 | 0 | 10 |
 | ReStructuredText | 1,315 | 0 | 434 | 8 |
@@ -33,27 +33,27 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.22` (2026-02-25)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-19
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,399 · **Forks**: 892 · **Open issues**: 4,711 · **Contributors**: 399
+- **Stars**: 10,400 · **Forks**: 896 · **Open issues**: 4,712 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1498 · **Open PRs**: 63 · **Closed issues**: 4452 · **Open issues**: 259 · **Commits**: 11911
+- **Releases**: 59 · **Merged PRs**: 1499 · **Open PRs**: 64 · **Closed issues**: 4452 · **Open issues**: 260 · **Commits**: 11919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 14 | 9 | 4 | 11 | 73 |
-| last60d | 2026-09-18 | 0 | 32 | 22 | 16 | 27 | 191 |
-| 90d | 2026-08-19 | 0 | 35 | 31 | 35 | 36 | 226 |
-| last180d | 2026-05-21 | 0 | 67 | 42 | 88 | 53 | 383 |
-| 360d | 2025-11-22 | 2 | 174 | 61 | 330 | 80 | 1023 |
-| last720d | 2024-11-27 | 3 | 254 | 63 | 668 | 103 | 1320 |
+| 30d | 2026-10-20 | 0 | 15 | 9 | 4 | 12 | 85 |
+| last60d | 2026-09-20 | 0 | 32 | 23 | 14 | 28 | 203 |
+| 90d | 2026-08-21 | 0 | 36 | 32 | 32 | 35 | 238 |
+| last180d | 2026-05-23 | 0 | 67 | 43 | 86 | 54 | 395 |
+| 360d | 2025-11-24 | 2 | 174 | 62 | 329 | 81 | 1035 |
+| last720d | 2024-11-29 | 3 | 255 | 64 | 668 | 104 | 1328 |
 
 ## Release assets
 
@@ -63,7 +63,7 @@ Total: **72,346** lines of code across **423** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/lutris). **49** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **103** distros on [repology.org](https://repology.org/project/lutris). **49** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,4 +88,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:42:52Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:20:49Z._
