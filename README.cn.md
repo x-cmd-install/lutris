@@ -24,6 +24,16 @@ x install lutris
 | ReStructuredText | 1,315 | 0 | 434 | 8 |
 | Sh | 1,139 | 278 | 199 | 8 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **3.9 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/lutris/lutris>
@@ -38,22 +48,22 @@ x install lutris
 
 ## 流行度
 
-- **Star**: 10,401 · **Fork**: 896 · **开放 issue**: 4,712 · **贡献者**: 400
+- **Star**: 10,402 · **Fork**: 897 · **开放 issue**: 4,713 · **贡献者**: 400
 
 ## 累计统计
 
-- **发布数**: 59 · **已合并 PR**: 1500 · **开放 PR**: 63 · **已关闭 issue**: 4452 · **开放 issue**: 260 · **提交数**: 11923
+- **发布数**: 59 · **已合并 PR**: 1500 · **开放 PR**: 63 · **已关闭 issue**: 4452 · **开放 issue**: 261 · **提交数**: 11923
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 16 | 8 | 4 | 12 | 91 |
-| last60d | 2026-09-21 | 0 | 30 | 22 | 13 | 27 | 209 |
-| 90d | 2026-08-22 | 0 | 36 | 27 | 32 | 35 | 244 |
-| last180d | 2026-05-24 | 0 | 68 | 42 | 86 | 54 | 401 |
-| 360d | 2025-11-25 | 2 | 175 | 61 | 328 | 81 | 1041 |
-| last720d | 2024-11-30 | 3 | 255 | 63 | 668 | 104 | 1332 |
+| 30d | 2026-10-22 | 0 | 16 | 8 | 4 | 13 | 91 |
+| last60d | 2026-09-22 | 0 | 30 | 22 | 13 | 27 | 209 |
+| 90d | 2026-08-23 | 0 | 36 | 27 | 31 | 36 | 244 |
+| last180d | 2026-05-25 | 0 | 67 | 42 | 86 | 55 | 401 |
+| 360d | 2025-11-26 | 2 | 175 | 61 | 327 | 82 | 1041 |
+| last720d | 2024-12-01 | 3 | 255 | 63 | 668 | 105 | 1331 |
 
 ## Release 资产
 
@@ -88,4 +98,4 @@ lutris 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:16:30Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T06:59:12Z._
