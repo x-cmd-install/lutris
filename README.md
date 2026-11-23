@@ -24,6 +24,16 @@ Total: **73,366** lines of code across **433** files in the top 5 languages.
 | ReStructuredText | 1,315 | 0 | 434 | 8 |
 | Sh | 1,139 | 278 | 199 | 8 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/lutris/lutris>
@@ -38,22 +48,22 @@ Total: **73,366** lines of code across **433** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,403 · **Forks**: 897 · **Open issues**: 4,714 · **Contributors**: 400
+- **Stars**: 10,406 · **Forks**: 897 · **Open issues**: 4,714 · **Contributors**: 400
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1500 · **Open PRs**: 63 · **Closed issues**: 4452 · **Open issues**: 262 · **Commits**: 11928
+- **Releases**: 59 · **Merged PRs**: 1500 · **Open PRs**: 64 · **Closed issues**: 4452 · **Open issues**: 262 · **Commits**: 11928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 16 | 8 | 4 | 14 | 77 |
-| last60d | 2026-09-23 | 0 | 28 | 22 | 13 | 27 | 199 |
-| 90d | 2026-08-24 | 0 | 36 | 27 | 31 | 37 | 247 |
-| last180d | 2026-05-26 | 0 | 67 | 42 | 85 | 56 | 403 |
-| 360d | 2025-11-27 | 2 | 174 | 61 | 326 | 82 | 1045 |
-| last720d | 2024-12-02 | 3 | 255 | 63 | 665 | 106 | 1335 |
+| 30d | 2026-10-24 | 0 | 16 | 9 | 4 | 14 | 77 |
+| last60d | 2026-09-24 | 0 | 28 | 23 | 13 | 27 | 199 |
+| 90d | 2026-08-25 | 0 | 36 | 28 | 30 | 37 | 247 |
+| last180d | 2026-05-27 | 0 | 67 | 43 | 85 | 56 | 403 |
+| 360d | 2025-11-28 | 2 | 174 | 62 | 326 | 82 | 1045 |
+| last720d | 2024-12-03 | 2 | 255 | 64 | 659 | 106 | 1335 |
 
 ## Release assets
 
@@ -88,4 +98,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:48:37Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:47:16Z._
