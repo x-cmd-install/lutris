@@ -1,67 +1,13 @@
-- repo: pardus_21
-  subrepo: contrib
-  srcname: lutris
-  binnames:
-    - lutris
-  visiblename: lutris
-  version: 0.5.8.3
-  origversion: 0.5.8.3-2
-  status: outdated
-  maintainers:
-    - pkg-games-devel@lists.alioth.debian.org
-    - stephanlachnit@protonmail.com
-  categories:
-    - contrib/misc
-- repo: parrot
-  subrepo: parrot-updates/contrib
-  srcname: lutris
-  binnames:
-    - lutris
-  visiblename: lutris
-  version: 0.5.19
-  origversion: 0.5.19-2
-  status: outdated
-  maintainers:
-    - pkg-games-devel@lists.alioth.debian.org
-    - hibby@debian.org
-    - sapphire@linux.org.ba
-  categories:
-    - contrib/misc
-- repo: pclinuxos
-  srcname: lutris
-  visiblename: lutris
+- repo: slackbuilds
+  srcname: games/lutris
+  visiblename: games/lutris
   version: 0.5.22
-  origversion: 0.5.22-1pclos2026
+  origversion: null
   status: newest
-  summary: Install and play any video game easily
-  categories:
-    - Games/Other
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: lutris
-  binname: lutris
-  visiblename: lutris
-  version: 0.5.22
-  origversion: 0.5.22-2
-  status: newest
-  summary: Open Gaming Platform
-  licenses:
-    - GPL-3.0-only
-- repo: parrot
-  subrepo: parrot/contrib
-  srcname: lutris
-  binnames:
-    - lutris
-  visiblename: lutris
-  version: 0.5.19
-  origversion: 0.5.19-2
-  status: outdated
   maintainers:
-    - pkg-games-devel@lists.alioth.debian.org
-    - hibby@debian.org
-    - sapphire@linux.org.ba
+    - antonioleal@yahoo.com
   categories:
-    - contrib/misc
+    - games
 - repo: aerynos
   srcname: lutris
   visiblename: lutris
@@ -395,6 +341,20 @@
   categories:
     - Unspecified
 - repo: fedora_40
+  subrepo: updates
+  srcname: lutris
+  binnames:
+    - lutris
+  visiblename: lutris
+  version: 0.5.19
+  origversion: 0.5.19-1.fc40
+  status: outdated
+  summary: Install and play any video game easily
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
   subrepo: release
   srcname: lutris
   binnames:
@@ -408,15 +368,15 @@
     - GPLv3
   categories:
     - Unspecified
-- repo: fedora_40
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: lutris
   binnames:
     - lutris
   visiblename: lutris
-  version: 0.5.19
-  origversion: 0.5.19-1.fc40
-  status: outdated
+  version: 0.5.17
+  origversion: 0.5.17-8.fc41
+  status: legacy
   summary: Install and play any video game easily
   licenses:
     - GPL-3.0-only
@@ -431,20 +391,6 @@
   version: 0.5.19
   origversion: 0.5.19-1.fc41
   status: outdated
-  summary: Install and play any video game easily
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: fedora_41
-  subrepo: release
-  srcname: lutris
-  binnames:
-    - lutris
-  visiblename: lutris
-  version: 0.5.17
-  origversion: 0.5.17-8.fc41
-  status: legacy
   summary: Install and play any video game easily
   licenses:
     - GPL-3.0-only
@@ -715,6 +661,17 @@
     - GPLv3+
   categories:
     - Games/Other
+- repo: nix_unstable
+  srcname: lutris-free
+  visiblename: lutris
+  version: 0.5.22
+  origversion: null
+  status: newest
+  summary: Open Source gaming platform for GNU/Linux
+  maintainers:
+    - rapiteanu.catalin@gmail.com
+  licenses:
+    - GPL-3.0-or-later
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: lutris
@@ -735,12 +692,23 @@
   binname: lutris
   visiblename: lutris
   version: 0.5.22
-  origversion: 0.5.22-1
+  origversion: 0.5.22-2
   status: newest
   summary: Open Gaming Platform
   licenses:
     - GPL-3.0-only
 - repo: manjaro_testing
+  subrepo: extra
+  srcname: lutris
+  binname: lutris
+  visiblename: lutris
+  version: 0.5.22
+  origversion: 0.5.22-2
+  status: newest
+  summary: Open Gaming Platform
+  licenses:
+    - GPL-3.0-only
+- repo: manjaro_unstable
   subrepo: extra
   srcname: lutris
   binname: lutris
@@ -900,17 +868,6 @@
     - rapiteanu.catalin@gmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: pacstall
-  srcname: lutris-deb
-  binname: lutris-deb
-  visiblename: lutris-deb
-  version: 0.5.22
-  origversion: 0.5.22-1
-  status: newest
-  summary: Open source gaming platform
-  maintainers:
-    - oren@taumoda.com
-    - pejuton@proton.me
 - repo: nix_stable_26_05
   srcname: lutris-unwrapped
   visiblename: lutris-unwrapped
@@ -924,17 +881,6 @@
     - GPL-3.0-or-later
 - repo: nix_unstable
   srcname: lutris
-  visiblename: lutris
-  version: 0.5.22
-  origversion: null
-  status: newest
-  summary: Open Source gaming platform for GNU/Linux
-  maintainers:
-    - rapiteanu.catalin@gmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_unstable
-  srcname: lutris-free
   visiblename: lutris
   version: 0.5.22
   origversion: null
@@ -972,13 +918,13 @@
   categories:
     - Graphical Desktop/Applications/Games
 - repo: openmandriva_6_0
-  subrepo: main/release
+  subrepo: main/updates
   srcname: lutris
   binnames:
     - lutris
   visiblename: lutris
   version: 0.5.19
-  origversion: 0.5.19-1
+  origversion: 0.5.19-3
   status: outdated
   summary: Install and play any video game easily
   maintainers:
@@ -988,13 +934,13 @@
   categories:
     - Games/Other
 - repo: openmandriva_6_0
-  subrepo: main/updates
+  subrepo: main/release
   srcname: lutris
   binnames:
     - lutris
   visiblename: lutris
   version: 0.5.19
-  origversion: 0.5.19-3
+  origversion: 0.5.19-1
   status: outdated
   summary: Install and play any video game easily
   maintainers:
@@ -1036,11 +982,11 @@
   categories:
     - Games/Other
 - repo: opensuse_leap_15_5
-  subrepo: updates/backports
+  subrepo: main/oss
   srcname: lutris
   visiblename: lutris
   version: 0.5.9.1
-  origversion: 0.5.9.1-bp155.3.3.1
+  origversion: 0.5.9.1-bp155.2.12
   status: outdated
   summary: Manager for game installation and execution
   licenses:
@@ -1048,11 +994,11 @@
   categories:
     - Unspecified
 - repo: opensuse_leap_15_5
-  subrepo: main/oss
+  subrepo: updates/backports
   srcname: lutris
   visiblename: lutris
   version: 0.5.9.1
-  origversion: 0.5.9.1-bp155.2.12
+  origversion: 0.5.9.1-bp155.3.3.1
   status: outdated
   summary: Manager for game installation and execution
   licenses:
@@ -1090,6 +1036,17 @@
   categories:
     - Unspecified
 - repo: pacstall
+  srcname: lutris-deb
+  binname: lutris-deb
+  visiblename: lutris-deb
+  version: 0.5.22
+  origversion: 0.5.22-1
+  status: newest
+  summary: Open source gaming platform
+  maintainers:
+    - oren@taumoda.com
+    - pejuton@proton.me
+- repo: pacstall
   srcname: lutris-git
   binname: lutris-git
   visiblename: lutris-git
@@ -1099,6 +1056,59 @@
   summary: Open Gaming Platform
   maintainers:
     - xdavius@github.com
+- repo: pardus_21
+  subrepo: contrib
+  srcname: lutris
+  binnames:
+    - lutris
+  visiblename: lutris
+  version: 0.5.8.3
+  origversion: 0.5.8.3-2
+  status: outdated
+  maintainers:
+    - pkg-games-devel@lists.alioth.debian.org
+    - stephanlachnit@protonmail.com
+  categories:
+    - contrib/misc
+- repo: parrot
+  subrepo: parrot/contrib
+  srcname: lutris
+  binnames:
+    - lutris
+  visiblename: lutris
+  version: 0.5.19
+  origversion: 0.5.19-2
+  status: outdated
+  maintainers:
+    - pkg-games-devel@lists.alioth.debian.org
+    - hibby@debian.org
+    - sapphire@linux.org.ba
+  categories:
+    - contrib/misc
+- repo: parrot
+  subrepo: parrot-updates/contrib
+  srcname: lutris
+  binnames:
+    - lutris
+  visiblename: lutris
+  version: 0.5.19
+  origversion: 0.5.19-2
+  status: outdated
+  maintainers:
+    - pkg-games-devel@lists.alioth.debian.org
+    - hibby@debian.org
+    - sapphire@linux.org.ba
+  categories:
+    - contrib/misc
+- repo: pclinuxos
+  srcname: lutris
+  visiblename: lutris
+  version: 0.5.22
+  origversion: 0.5.22-1pclos2026
+  status: newest
+  summary: Install and play any video game easily
+  categories:
+    - Games/Other
 - repo: pisi_main
   subrepo: main
   srcname: game/misc/lutris
@@ -1195,16 +1205,6 @@
     - GPLv3+
   categories:
     - Games/Other
-- repo: slackbuilds
-  srcname: games/lutris
-  visiblename: games/lutris
-  version: 0.5.22
-  origversion: null
-  status: newest
-  maintainers:
-    - antonioleal@yahoo.com
-  categories:
-    - games
 - repo: solus
   srcname: lutris
   binname: lutris
