@@ -58,36 +58,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 16 | 9 | 4 | 14 | 77 |
-| last60d | 2026-09-25 | 0 | 28 | 23 | 13 | 27 | 199 |
-| 90d | 2026-08-26 | 0 | 36 | 28 | 30 | 37 | 247 |
-| last180d | 2026-05-28 | 0 | 67 | 43 | 82 | 56 | 403 |
-| 360d | 2025-11-29 | 2 | 174 | 62 | 323 | 82 | 1045 |
-| last720d | 2024-12-04 | 2 | 254 | 64 | 657 | 106 | 1334 |
+| 30d | 2026-10-26 | 0 | 16 | 9 | 4 | 14 | 77 |
+| last60d | 2026-09-26 | 0 | 27 | 23 | 13 | 27 | 199 |
+| 90d | 2026-08-27 | 0 | 35 | 28 | 29 | 37 | 247 |
+| last180d | 2026-05-29 | 0 | 67 | 43 | 82 | 56 | 403 |
+| 360d | 2025-11-30 | 2 | 174 | 62 | 322 | 82 | 1045 |
+| last720d | 2024-12-05 | 2 | 254 | 64 | 656 | 106 | 1332 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [lutris_0.5.22_all.deb](https://github.com/lutris/lutris/releases/download/v0.5.22/lutris_0.5.22_all.deb) | 2.0 MiB | `other` |
-
-## Distribution status
-
-Reported by **103** distros on [repology.org](https://repology.org/project/lutris). **49** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.5.22` | ✅ latest |
-| Debian 14 | `0.5.22` | ✅ latest |
-| Debian 13 | `0.5.19` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.5.22` | ✅ latest |
-| Ubuntu 24.04 LTS | `0.5.14` | ⚠️ outdated |
-| Arch | `0.5.22` | ✅ latest |
-| Fedora rawhide | `0.5.22` | ✅ latest |
-| Nix unstable | `0.5.22` | ✅ latest |
-| Void | `0.5.22` | ✅ latest |
-| Alpine edge | `0.5.22` | ✅ latest |
-| openSUSE Tumbleweed | `0.5.22` | ✅ latest |
 
 ## Improve this data
 
@@ -98,4 +80,4 @@ Install metadata for lutris lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:13:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:32:26Z._
